@@ -123,6 +123,7 @@ JSONObject* _parse_json(char** p_ptr)
         } 
         else if(*ptr == '#')
         {
+            // comment that start with #
             while(*ptr != '\n' && *ptr != '\0')
                     ptr++;
         }
