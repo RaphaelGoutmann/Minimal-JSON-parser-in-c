@@ -1,1 +1,1 @@
-# Minimal-JSON-parser-in-c
+# Minimal JSON parser
